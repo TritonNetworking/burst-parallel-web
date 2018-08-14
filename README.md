@@ -1,4 +1,4 @@
-UCSD's "instant cluster" project web page
+UCSD's burst-parallel project web page
 
 This webpage is generated via the Hugo static site generator
 (https://gohugo.io/)

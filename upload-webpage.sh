@@ -2,4 +2,4 @@
 
 hugo
 
-rsync -ravz -e ssh --delete --exclude=upload-webpage.sh --exclude=*.bak public/* hobo.sysnet.ucsd.edu:/na/www/vhost.instant-cluster/
+rsync -ravz -e ssh --delete --exclude=upload-webpage.sh --exclude=*.bak public/* hobo.sysnet.ucsd.edu:/na/www/vhost.burst-parallel/

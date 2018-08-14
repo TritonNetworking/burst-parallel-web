@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# UCSD instant cluster research project
+# UCSD burst-parallel research project
 
 ## Overview
 
