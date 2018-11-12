@@ -29,8 +29,9 @@ _(From left to right) Adrian Mendoza (Undergraduate researcher), Zheng Tang (Und
 
 ## Publications
 
-Sprocket: A Serverless Video Processing Framework for the Cloud, Lixiang Ao,
-Liz Izhikevich, Geoffrey M. Voelker, and George Porter, Proceedings of the
+[Sprocket: A Serverless Video Processing Framework for the
+Cloud](http://cseweb.ucsd.edu/~gmporter/papers/socc18-sprocket.pdf), Lixiang
+Ao, Liz Izhikevich, Geoffrey M. Voelker, and George Porter, Proceedings of the
 ninth ACM Symposium on Cloud Computing (Socc'18), Carlsbad, Calif, October
 2018.
 
